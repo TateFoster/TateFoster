@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Tate Foster(He/Him) I am a full stack developer just getting into the coding world. 
+I'm Tate Foster(He/Him) I am a single dad now pursuing a dream of being a great full stack developer and learning as much as I can in the coding world.
 
 
 - 🔭 I’m currently working on a react native abacus application
